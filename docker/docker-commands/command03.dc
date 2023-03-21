@@ -1,1 +1,1 @@
-docker container inspect 01container 
+docker container ps
