@@ -1,10 +1,15 @@
 # PROJETO TO DO LIST DE BACKEND
 - Esse projeto teve como objetivo mostrar o aprendizados com Docker e seus comandos.
 - Pastas com o que foram elaborado por mim sao:
+  
   Projeto-todo-list-backend/docker/docker-commands.
+  
   Projeto-todo-list-backend/docker/todo-app/back-end/Dockerfile.
+  
   Projeto-todo-list-backend/docker/todo-app/front-end/Dockerfile.
+  
   Projeto-todo-list-backend/docker/todo-app/tests/Dockerfile.
+  
   Projeto-todo-list-backend/docker/docker-compose.yml.
   
 <!-- Olá, Tryber!
